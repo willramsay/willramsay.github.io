@@ -1,4 +1,3 @@
-# Will Ramsay
 
 ## Favorite English-Language Books
 ### Diaries
