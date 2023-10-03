@@ -1,7 +1,6 @@
 # Will Ramsay
 
 ## Favorite English-Language Books
-
 ### Diaries
 * The Diary of Samuel Pepys
 * London Journal, 1762-63
