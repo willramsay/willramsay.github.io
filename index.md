@@ -6,7 +6,7 @@
 
 ### Current
 
-* [ENGL106/ENGL106H: Writing Across the Disciplines](./engl106.html)
+* [ENGL106/ENGL106H: Writing Across the Disciplines](./engl106.md)
 * [ENGL212: Modernism and Modernities](./engl212.html)
 
 ### Past
