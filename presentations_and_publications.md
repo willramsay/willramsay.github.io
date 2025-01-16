@@ -14,4 +14,4 @@
   
 ### Presentations 
 
-"Believing the Past," Honors Program Colloquy, Huntingdon College, [date]
+* "Believing the Past," Honors Program Colloquy, Huntingdon College, [date]
