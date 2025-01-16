@@ -18,6 +18,6 @@
 * English Literature I (Spring 2019, 2 sections)
 * English Literature I, Honors (Fall 2018, 2 sections; Fall 2020)
 * English Composition II (Spring 2018, 2 sections)
-* English Composition I: (Fall 2017, 2 sections; Fall 2020)
+* English Composition I (Fall 2017, 2 sections; Fall 2020)
 * As Teaching Assistant: BUI 101: Foundations: Origins (Fall 2019, 2 sections)
 * As Teaching Assistant: BUI 102: Foundations: Possibilities (Spring 2020, 2 sections)
