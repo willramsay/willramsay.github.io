@@ -14,7 +14,7 @@
  
 ### The University of Alabama
 * American Literature I, Honors (Spring 2021)
-* American Literature I (Spring 2021, 2 sections)
+* American Literature I (Spring 2021)
 * English Literature I (Spring 2019, 2 sections)
 * English Literature I, Honors (Fall 2018, 2 sections; Fall 2020)
 * English Composition II (Spring 2018, 2 sections)
