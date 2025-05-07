@@ -1,6 +1,9 @@
 ## Past Courses
 
 ### Huntingdon College
+* ENGL212: Modernism and Modernity (Spring 2025)
+* ENGL106: Writing Across the Disciplines (Spring 2025, 3 sections)
+* ENGL106 Honors: Writing Across the Disciplines (Spring 2025)
 * Introduction to College Writing (Fall 2024, 5 sections)
   
 ### Deep Springs College
