@@ -6,10 +6,6 @@
 
 ### Current
 
-* ENGL106: Writing Across the Disciplines
-* ENGL106 Honors: Writing Across the Disciplines
-* [ENGL212: Modernism and Modernity](./ENGL212)
-
 ### Past
 
 * [Past Courses](./past_courses.html)
