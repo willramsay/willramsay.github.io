@@ -5,6 +5,8 @@
 ## Courses
 
 ### Current
+* English 105: Introduction to College Writing (3 sections)
+* English 412: Shakespeare
 
 ### Past
 
