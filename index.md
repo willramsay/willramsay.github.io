@@ -17,5 +17,3 @@
 * [Presentations and Publications](./presentations_and_publications.html)
 
 ## Reading Notes
-
-* [Reading Notes](./reading_notes)
