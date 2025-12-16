@@ -1,10 +1,11 @@
 ## Past Courses
 
 ### Huntingdon College
-* ENGL212: Modernism and Modernity (Spring 2025)
-* ENGL106: Writing Across the Disciplines (Spring 2025, 3 sections)
-* ENGL106 Honors: Writing Across the Disciplines (Spring 2025)
-* Introduction to College Writing (Fall 2024, 5 sections)
+* English 412: Shakespeare
+* English 212: Modernism and Modernity (Spring 2025)
+* English 106: Writing Across the Disciplines (Spring 2025, 3 sections)
+* English 106: Honors: Writing Across the Disciplines (Spring 2025)
+* English 105: Introduction to College Writing (Fall 2024, 5 sections; Fall 2025 3 sections)
   
 ### Deep Springs College
 * Shakespeare's Plays (Spring 2023)
