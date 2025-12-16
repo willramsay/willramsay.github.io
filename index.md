@@ -3,6 +3,8 @@
 *Instructor of English, Huntingdon College*
 
 ## Courses
+* English 106: Introduction to College Research (3 sections)
+* English 215: Eighteenth and Nineteenth-Century British Literature
 
 ### Current
 
