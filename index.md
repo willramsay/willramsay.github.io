@@ -4,13 +4,7 @@
 
 ## Courses
 
-### Current
-* English 106: Introduction to College Research (3 sections)
-* English 215: Eighteenth and Nineteenth-Century British Literature
-  
-### Past
-
-* [Past Courses](./past_courses.html)
+* [Current and Past Courses](./past_courses.html)
 
 ## Presentations and Publications
 
