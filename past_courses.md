@@ -1,10 +1,15 @@
+## Current Courses
+
+* English 106: Introduction to College Research (3 sections)
+* English 215: Eighteenth and Nineteenth-Century British Literature
+
 ## Past Courses
 
 ### Huntingdon College
-* English 412: Shakespeare
+* English 412: Shakespeare (Spring 2025)
 * English 212: Modernism and Modernity (Spring 2025)
 * English 106: Writing Across the Disciplines (Spring 2025, 3 sections)
-* English 106: Honors: Writing Across the Disciplines (Spring 2025)
+* English 106, Honors: Writing Across the Disciplines (Spring 2025)
 * English 105: Introduction to College Writing (Fall 2024, 5 sections; Fall 2025 3 sections)
   
 ### Deep Springs College
